@@ -56,7 +56,8 @@ This is a blog site that showcases a clean and responsive layout for a personal 
         });
     });
 
-    ## Contributing
+
+## Contributing
 
 Feel free to fork this repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
