@@ -1,7 +1,7 @@
 # Blog Site
 ## Description
 
-This is a simple blog site that showcases a clean and responsive layout for a personal or professional blog wich is created using Tailwind and Javascript. The project includes features like a theme toggle for light and dark modes, a hamburger menu for mobile navigation, and a "back to top" button for better user experience. This project is ideal for practice Tailwind and JavaScript.
+This is a blog site that showcases a clean and responsive layout for a personal or professional blog wich is created using Tailwind and Javascript. The project includes features like a theme toggle for light and dark modes, a hamburger menu for mobile navigation, and a "back to top" button for better user experience. This project is ideal for practice Tailwind and JavaScript.
 
 ## Features
 
@@ -15,6 +15,7 @@ This is a simple blog site that showcases a clean and responsive layout for a pe
 
 - A modern web browser (e.g., Chrome, Firefox, Edge).
 - Basic understanding of HTML, CSS, Tailwind and JavaScript.
+- Install Tailwind remotely by refering the documentation here https://tailwindcss.com/docs/installation
 
 ## JavaScript Code Highlights
 
@@ -54,4 +55,12 @@ This is a simple blog site that showcases a clean and responsive layout for a pe
             window.scrollTo({ top: 0, behavior: "smooth" });
         });
     });
+
+    ## Contributing
+
+Feel free to fork this repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is open-source and available under the [MIT License](https://opensource.org/license/mit).
 
